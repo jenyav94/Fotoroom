@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/example_slide_show"
+          android:title="@string/example_start_slide_show"
+          android:icon="@drawable/icon_slideshow"
+          android:showAsAction="ifRoom"
+          android:enabled="false"
+          android:visible="false"
+        />
+
+</menu>
