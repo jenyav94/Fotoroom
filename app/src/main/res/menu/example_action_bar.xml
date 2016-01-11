@@ -5,7 +5,7 @@
 
     <item android:id="@+id/example_slide_show"
           android:title="@string/example_start_slide_show"
-          android:icon="@drawable/icon_slideshow"
+          android:icon="@drawable/slideshow_icon"
           android:showAsAction="ifRoom"
           android:enabled="false"
           android:visible="false"
